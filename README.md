@@ -1,3 +1,3 @@
-# Web Design Course
+# Web Programming Course
 
-This repository contains all assignments for my Web Design course.
+This repository contains all assignments for my Web Programming course.
